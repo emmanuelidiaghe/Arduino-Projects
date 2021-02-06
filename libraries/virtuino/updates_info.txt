@@ -1,0 +1,7 @@
+Update corrections
+
+Virtuino library version 1.49
+Bug fixes:  Error on library VirtuinoBluetooth to read digital places from virtual memory 
+
+Virtuino library version 1.50
+The library occupies less memory
